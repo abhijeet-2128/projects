@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 
  // DELETE method
+ 
  app.delete('/', (req, res) => {
     res.send('Hello, DELETE method!');
   });
