@@ -66,7 +66,7 @@ app.post('/calculate/',(req,res)=>{
     var r=result.toString()
 	res.send(r);
 })
-const port = 3000;
+const port = 3005;
 
 
 
