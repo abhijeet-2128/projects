@@ -1,0 +1,5 @@
+what if we commit is this will be reflected in the github pr
+
+git revert commit-id chalane ke bad wapas se command line pr kaise jaye
+
+fast forward and non - fast forward
